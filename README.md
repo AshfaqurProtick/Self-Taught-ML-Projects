@@ -1,2 +1,1 @@
-# Self-Taught-ML-Projects
-16 Self learned Machine Learning Projects
+[Self-Taught-ML-Projects.docx](https://github.com/AshfaqurProtick/Self-Taught-ML-Projects/files/6964267/Self-Taught-ML-Projects.docx)
